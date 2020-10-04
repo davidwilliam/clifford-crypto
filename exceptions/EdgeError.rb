@@ -1,0 +1,2 @@
+class EdgeServerAccessError < StandardError
+end
